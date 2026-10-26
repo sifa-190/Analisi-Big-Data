@@ -1,0 +1,11 @@
+# Data besar
+archive/yellow_tripdata_*.csv
+archive/*.parquet
+archive/taxi+_zone_lookup.csv
+
+# Output build
+_build/
+ppw/_build/
+__pycache__/
+.ipynb_checkpoints/
+.venv/

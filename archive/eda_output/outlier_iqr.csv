@@ -1,0 +1,6 @@
+kolom,batas_bawah,batas_atas,jumlah_outlier,persen
+trip_distance,-1.96,5.7,629178.0,11.44
+fare_amount,-5.02,24.36,528462.0,9.61
+tip_amount,-3.43,5.72,299255.0,5.44
+total_amount,-4.24,28.9,542785.0,9.87
+durasi_menit,-9.47,31.83,289833.0,5.27

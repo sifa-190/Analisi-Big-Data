@@ -1,0 +1,9 @@
+RINGKASAN TEMUAN EDA - TAXI KUNING NYC
+
+1. Dari 5,500,000 perjalanan, 1.48% dibuang karena tidak valid; 5,418,732 perjalanan dipakai untuk analisis.
+2. Perjalanan umumnya pendek: median 1.56 mil, rata-rata bayar $15.52, durasi sekitar 12.8 menit.
+3. Jam tersibuk pukul 18:00 (364,521 order); tersepi pukul 04:00.
+4. Hari tersibuk Selasa, tersepi Minggu.
+5. Zona terpopuler: Upper East Side South. Wilayah Manhattan menguasai 90.6% seluruh order.
+6. Rata-rata bayar tertinggi terjadi pukul 05:00 ($19.02/perjalanan), belum tentu sama dengan jam tersibuk.
+7. Cara bayar dominan: Kartu kredit (71.2%). Rata-rata tip pembayar kartu 21.8% dari tarif.
